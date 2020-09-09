@@ -9,10 +9,6 @@ namespace PLayingCardsUppg11
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             char[] suits = { '\x2660', '\x2665', '\x2663', '\x2666' };
-            //char 1 = '\x2660';
-            //char 2 = '\x2665';
-            //char 3 = '\x2663';
-            //char 4 = '\x2666';
             for (int i = 1; i <= 4; i++)
             {
                 for (int x = 1; x <= 14; x++)
