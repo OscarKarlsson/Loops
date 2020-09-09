@@ -1,0 +1,13 @@
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\Uppg7\Uppg7\bin\Debug\netcoreapp3.1\Uppg7.exe
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\Uppg7\Uppg7\bin\Debug\netcoreapp3.1\Uppg7.deps.json
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\Uppg7\Uppg7\bin\Debug\netcoreapp3.1\Uppg7.runtimeconfig.json
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\Uppg7\Uppg7\bin\Debug\netcoreapp3.1\Uppg7.runtimeconfig.dev.json
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\Uppg7\Uppg7\bin\Debug\netcoreapp3.1\Uppg7.dll
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\Uppg7\Uppg7\bin\Debug\netcoreapp3.1\Uppg7.pdb
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\Uppg7\Uppg7\obj\Debug\netcoreapp3.1\Uppg7.AssemblyInfoInputs.cache
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\Uppg7\Uppg7\obj\Debug\netcoreapp3.1\Uppg7.AssemblyInfo.cs
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\Uppg7\Uppg7\obj\Debug\netcoreapp3.1\Uppg7.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\Uppg7\Uppg7\obj\Debug\netcoreapp3.1\Uppg7.dll
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\Uppg7\Uppg7\obj\Debug\netcoreapp3.1\Uppg7.pdb
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\Uppg7\Uppg7\obj\Debug\netcoreapp3.1\Uppg7.genruntimeconfig.cache
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\Uppg7\Uppg7\obj\Debug\netcoreapp3.1\Uppg7.csprojAssemblyReference.cache
