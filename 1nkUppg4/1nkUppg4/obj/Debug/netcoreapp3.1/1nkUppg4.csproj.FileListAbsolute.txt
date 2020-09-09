@@ -1,0 +1,13 @@
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\1nkUppg4\1nkUppg4\bin\Debug\netcoreapp3.1\1nkUppg4.exe
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\1nkUppg4\1nkUppg4\bin\Debug\netcoreapp3.1\1nkUppg4.deps.json
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\1nkUppg4\1nkUppg4\bin\Debug\netcoreapp3.1\1nkUppg4.runtimeconfig.json
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\1nkUppg4\1nkUppg4\bin\Debug\netcoreapp3.1\1nkUppg4.runtimeconfig.dev.json
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\1nkUppg4\1nkUppg4\bin\Debug\netcoreapp3.1\1nkUppg4.dll
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\1nkUppg4\1nkUppg4\bin\Debug\netcoreapp3.1\1nkUppg4.pdb
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\1nkUppg4\1nkUppg4\obj\Debug\netcoreapp3.1\1nkUppg4.csprojAssemblyReference.cache
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\1nkUppg4\1nkUppg4\obj\Debug\netcoreapp3.1\1nkUppg4.AssemblyInfoInputs.cache
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\1nkUppg4\1nkUppg4\obj\Debug\netcoreapp3.1\1nkUppg4.AssemblyInfo.cs
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\1nkUppg4\1nkUppg4\obj\Debug\netcoreapp3.1\1nkUppg4.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\1nkUppg4\1nkUppg4\obj\Debug\netcoreapp3.1\1nkUppg4.dll
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\1nkUppg4\1nkUppg4\obj\Debug\netcoreapp3.1\1nkUppg4.pdb
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\1nkUppg4\1nkUppg4\obj\Debug\netcoreapp3.1\1nkUppg4.genruntimeconfig.cache

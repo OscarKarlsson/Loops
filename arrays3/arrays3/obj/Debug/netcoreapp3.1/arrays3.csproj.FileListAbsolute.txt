@@ -1,0 +1,12 @@
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\arrays3\arrays3\bin\Debug\netcoreapp3.1\arrays3.exe
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\arrays3\arrays3\bin\Debug\netcoreapp3.1\arrays3.deps.json
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\arrays3\arrays3\bin\Debug\netcoreapp3.1\arrays3.runtimeconfig.json
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\arrays3\arrays3\bin\Debug\netcoreapp3.1\arrays3.runtimeconfig.dev.json
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\arrays3\arrays3\bin\Debug\netcoreapp3.1\arrays3.dll
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\arrays3\arrays3\bin\Debug\netcoreapp3.1\arrays3.pdb
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\arrays3\arrays3\obj\Debug\netcoreapp3.1\arrays3.AssemblyInfoInputs.cache
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\arrays3\arrays3\obj\Debug\netcoreapp3.1\arrays3.AssemblyInfo.cs
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\arrays3\arrays3\obj\Debug\netcoreapp3.1\arrays3.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\arrays3\arrays3\obj\Debug\netcoreapp3.1\arrays3.dll
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\arrays3\arrays3\obj\Debug\netcoreapp3.1\arrays3.pdb
+C:\Users\oscar\Desktop\MUT20\Programmering\c# 3\arrays3\arrays3\obj\Debug\netcoreapp3.1\arrays3.genruntimeconfig.cache
