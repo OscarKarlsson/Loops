@@ -11,7 +11,7 @@ namespace PLayingCardsUppg11
             char[] suits = { '\x2660', '\x2665', '\x2663', '\x2666' };
             for (int i = 1; i <= 4; i++)
             {
-                for (int x = 1; x <= 14; x++)
+                for (int x = 2; x <= 14; x++)
                 {
                     switch (x)
                     {
